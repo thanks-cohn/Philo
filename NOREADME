@@ -1,0 +1,43 @@
+My Thoughts
+
+“Being early is often indistinguishable from being wrong.”
+
+-Me, circa. 2015
+
+
+
+Never build your own elegant prison.
+
+Always, when you design, build, and create, have the end in mind. One day it will not be some rushed college student trying to get an A using your creations or techniques. It will be you, years later, at 2:11 AM, exhausted, staring at journalctl -xe after a kernel update suddenly causes the root filesystem to fail mounting because one “temporary” abstraction silently swallowed an error six months earlier.
+
+It will be you SSH’d into a half-responsive machine through a dying tmux session trying to understand why the daemon only crashes under high I/O pressure after 19 days of uptime. It will be you grep’ing through logs, praying your past self cared enough to leave breadcrumbs instead of cleverness.
+
+So you build accordingly.
+
+Inspectable everything. Stability first. Boring is best. LOGS!LOGS!LOGS! 
+And then, 
+scale. 
+
+Finally, speed.
+
+Because future-you will not remember the clever abstraction written at 4 AM under caffeine and ambition. 
+
+*Future-you will only remember the pain of untangling it. Being early is often indistinguishable from being wrong, and so your systems must survive long enough to prove themselves right.*
+
+Everything you build should be appendable. Modular. Scalable. Within every work you do, it must be able to found endless futures through it, on top of it, now and then. Forever.
+
+Never build dead ends.
+Never build systems that terminate possibility.
+Never hide state.
+Never hide ownership.
+Never hide allocations.
+Never hide failure.
+
+Build foundations that permit inheritance.
+
+Leave openings.
+Leave structure.
+Leave truth.
+Leave trails.
+
+And above all, never build systems so clever that you become the only human being capable of repairing them.

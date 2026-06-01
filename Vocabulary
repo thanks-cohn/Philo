@@ -1,3 +1,13 @@
 Placeholder pile-on is the gradual burial of a project beneath layers of stubs, temporary workarounds, planned features, empty interfaces, and future promises until the visible structure becomes much larger than the working system underneath.A fake-out. It creates the appearance of momentum and completeness while making it increasingly difficult to distinguish what is real, what is unfinished, and what only exists as an intention.Self-deception, and what's worse, a balm that deters real progress.  
 
 Cardboard code is code that looks functional and convincing until it encounters the conditions real software must survive. It depends on ideal inputs, ideal environments, ideal timing, and ideal users, often lacking the resilience, validation, recovery, observability, and failure handling needed to withstand reality. Like a cardboard building on a movie set, it presents the shape of a solution witthout possessing the strength of one.
+
+"Spec Lust:The lust to make hardware confess. Not “I own big specs,” but “watch what I forced the specs to do.” Spec Lust is when a man sees 64GB RAM and does not think “capacity.” He thinks “unspent violence.” It is not hardware ownership. It is hardware interrogation."
+
+"Minimalistic Maximmalism: The doctrine that the system should be brutally small where it rests and brutally huge where it works. Minimal surface. Maximal output. No wasted daemons. No mystery sludge. No little background goblins eating RAM under the floorboards."
+
+"Min-Max: The street name for Minimalistic Maximalism. Shorter, nastier, more usable in public. “I’m on that Min-Max stuff” means the speaker has probably optimized something nobody asked him to optimize and is waiting for society to thank him later."
+
+"Min-Maxer: The worst man in the thread, and unfortunately, the one who is probably right. He asks about cold cache when everyone else is celebrating. He has the social texture of sandpaper and the emotional timing of a smoke alarm. At first you hate him. Later your dataset grows. Then you understand."
+
+"Benchmark Goblin: A creature who cannot see a number without wanting another number beside it. He says “just curious” before producing twelve logs, a CSV, a graph, and a small theology of filesystem behavior. His avatar is a low-resolution penguin wearing sunglasses."

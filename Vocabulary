@@ -18,7 +18,11 @@
 
 "Mystery Sludge:Any unexplained performance, memory, or architecture mess. “It’s just slow for some reason” is mystery sludge. “The app needs 2GB RAM to open a settings panel” is mystery sludge in formalwear. The Min-Maxer exists to point at it until somebody cries or profiles it."
 
-
+"A 'lonely green checkmark' is a passing test that proves almost nothing.
+It says “PASS” while only checking weak signs like “the file exists,” “the command returned 0,” or “the folder was created.”
+It becomes dangerous because it gives the project the appearance of health without proving the real behavior works.
+A real test must follow the path: input, operation, output, inspected evidence.
+The green checkmark should not stand alone; it should stand on proof."
 
 "Cognitive Sludge: The wet mental fog caused by vague names, bloated folders, and files called manager.c, helpers.c, stuff.c, or real_final_use_this_one.c. Cognitive sludge is what happens when a codebase makes your brain put on wet socks."
 

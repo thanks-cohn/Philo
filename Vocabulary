@@ -26,6 +26,7 @@ The green checkmark should not stand alone; it should stand on proof."
 
 "Cognitive Sludge: The wet mental fog caused by vague names, bloated folders, and files called manager.c, helpers.c, stuff.c, or real_final_use_this_one.c. Cognitive sludge is what happens when a codebase makes your brain put on wet socks."
 
+
 "Sleeper Stack Ascension is the dream of taking a modest machine, giving it small, strategic hardware upgrades, then pairing those upgrades with a brutally optimized open-source software stack until it starts beating “better” modern computers in specific categories."
 
 "Min-Max: The street name for Minimalistic Maximalism. Shorter, nastier, more usable in public. “I’m on that Min-Max stuff” means the speaker has probably optimized something nobody asked him to optimize and is waiting for society to thank him later."
@@ -39,4 +40,24 @@ The green checkmark should not stand alone; it should stand on proof."
 "Repo Shape: The first confession of a codebase. Before anyone reads the code, they see the tree. A good repo shape says, “I know what I am.” A bad repo shape says, “There was a lot going on emotionally.”" 
 
 "Mystery Sludge:Any unexplained performance, memory, or architecture mess. “It’s just slow for some reason” is mystery sludge. “The app needs 2GB RAM to open a settings panel” is mystery sludge in formalwear. The Min-Maxer exists to point at it until somebody cries or profiles it."
+
+"Minimus
+
+A condensed project-state report designed to deliver the maximum
+amiount of actionable information in the minimum amount of reading.
+
+Goals:
+- Build status at a glance
+- Test results at a glance
+- Current blockers
+- Feature completion state
+- Recent changes
+- Next milestone
+
+Principle:
+Maximum understanding per line.""
+
+
+
+
 
